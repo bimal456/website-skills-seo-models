@@ -1,0 +1,45 @@
+{
+  "brand": "REPLACE",
+  "ownership_confirmed": false,
+  "domain": "https://example.com",
+  "geo": "REPLACE",
+  "language": "nl-NL",
+  "primary_keyword": "REPLACE",
+  "tracking_url": "REPLACE",
+  "hosting": "cloudflare-pages",
+  "deploy": false,
+  "max_repair_rounds": 2,
+  "meta_description_length": 158,
+  "title_min": 57,
+  "title_max": 59,
+  "year": 2026,
+  "forbidden_words": [
+    "guide",
+    "top",
+    "best",
+    "learn",
+    "discover",
+    "ontdek"
+  ],
+  "pages": [
+    {
+      "path": "/",
+      "keyword": "REPLACE",
+      "min_words": 8000,
+      "required_headings": []
+    },
+    {
+      "path": "/games/",
+      "keyword": "REPLACE",
+      "min_words": 4000,
+      "required_headings": []
+    }
+  ],
+  "utility_pages": [
+    "/about/",
+    "/contact/",
+    "/privacy/",
+    "/terms/",
+    "/responsible-gambling/"
+  ]
+}

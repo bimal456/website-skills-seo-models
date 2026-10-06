@@ -1,0 +1,20 @@
+{
+  "pages": [
+    {
+      "path": "/",
+      "primary_keyword": "REPLACE_MAIN_KEYWORD",
+      "cluster_id": "main-hub",
+      "intent": "brand-overview",
+      "geo": "REPLACE_GEO",
+      "language": "REPLACE_LANGUAGE",
+      "primary_entity": "REPLACE_ENTITY",
+      "unique_value": "REPLACE_EVIDENCE_BACKED_VALUE",
+      "parent_path": null,
+      "publish_wave": 1,
+      "secondary_keywords": [],
+      "entities": [],
+      "required_questions": [],
+      "sources": []
+    }
+  ]
+}
