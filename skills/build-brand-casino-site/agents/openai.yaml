@@ -1,0 +1,14 @@
+interface:
+  display_name: Build Brand Casino Site
+  short_description: Build owned brand websites with SEO and release QA
+  default_prompt: Use $build-brand-casino-site to build an owned brand website from
+    my brief.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
